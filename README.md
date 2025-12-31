@@ -1,6 +1,8 @@
 
 # 📊 Social Media Engagement Analysis (Tableau)
 
+![Tableau](https://img.shields.io/badge/Tool-Tableau-blue?style=for-the-badge&logo=tableau)
+
 ## 📌 Project Overview
 This project analyzes **social media engagement metrics** across multiple platforms using **Tableau**.  
 The dashboard provides insights into **likes count**, **engagement rate**, **growth trends**, and **user interaction patterns** across different years, platforms, countries, and days of the week.
