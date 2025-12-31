@@ -1,7 +1,7 @@
 
 # 📊 Social Media Engagement Analysis (Tableau)
 
-[![Tableau](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/keerthana.gopal/viz/SocialMediaEngagementProject/Dashboard1?publish=yes))
+[![Tableau](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/keerthana.gopal/viz/SocialMediaEngagementProject/Dashboard1?publish=yes)
 
 ## 📌 Project Overview
 This project analyzes **social media engagement metrics** across multiple platforms using **Tableau**.  
