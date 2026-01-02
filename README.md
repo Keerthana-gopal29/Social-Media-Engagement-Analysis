@@ -74,7 +74,7 @@ View the interactive Tableau dashboard here:
 
 ## 👩‍💻 Author
 **Keerthana Gopal**  
-Aspiring Data Analyst | Data Science Enthusiast  
+Aspiring Data Scientist 
 *Be your own sunshine ☀️*
 
 ⭐ If you like this project, feel free to **star the repository**!
